@@ -1,0 +1,44 @@
+open browser
+close browser
+facebook
+google
+youtube
+twitter
+mail
+open drive
+open paint
+exit paint
+run d
+shutdown
+hibernat
+reboot
+full scan
+open taskmanager
+close taskmanager
+say time
+stop 
+run tree
+open mediaplayer
+close mediaplayer
+your name
+your age
+hi
+hai
+sing a song
+wow
+bye
+open snipping tool
+exit snipping tool
+start magnifier
+exit magnifier
+open note
+close note
+i am ovi
+who makes you
+who made you
+check i p 
+cam
+exit cam
+one
+instruction
+how are you
