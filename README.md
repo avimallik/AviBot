@@ -60,9 +60,9 @@ when Sphinix Configuration manager set all the resourses, Then it start to detec
 For that we will use the getHypothesis() method from the SpeechResult object, using a while loop we will be able to get all the recognized speech that the user will speak.The command variable will store the recognized speech from the user (The command that you speak) in string format hence we can compare whether the recognized command matches any from our list of commands and then execute the command. Like That if i say "open browser" the voice command matches with the dictionary list which is include first by using congfiguration if the voice command is matches with the dictionary list command then AviBot Launch or start the "google chorme"
 the process to launch windows Application i use windows "CMD command" under the java Runtime.getRuntime.exec() method by passing CMD string.  
 
-
-private static final String VOICEAGENTNAME = "kevin16";  
-class TextToSpeech{
+       //TextToSpeech
+      private static final String VOICEAGENTNAME = "kevin16";  
+      class TextToSpeech{
       String word;
       VoiceManager voiceManager;
       Voice ttsPulation;
@@ -72,13 +72,13 @@ class TextToSpeech{
          ttsPulation = voiceManager.getVoice(VOICENAME);
          ttsPulation.allocate();
          ttsPulation.speak(word);
-      }
-      
-      @Override
-      public String toString(){
+        }
+         @Override
+          public String toString(){
           return word;
-      }
-    }
+          }
+        }
+
      
  class TextToSpeech is responsible for converting text to speech. here is global String varible which is the Voice model and responsible to say my text to converting it to voice
      
