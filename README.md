@@ -92,5 +92,7 @@ class TextToSpeech{
                  } catch (IOException ex) {
                      Logger.getLogger(CommandFerguson.class.getName()).log(Level.SEVERE, null, ex);
                  }
-     in this code the TextToSpeech generator = new TextToSpeech("google chrome opening") the generator Object convert the  "google chrome opening" string to the voice and it is perform after the openning of the browser.
-     thats it. Mainly it is a voice synthesize application if our voice command is Matches with the Language Dictionary instruction or String it perform or run it By using Control Structure
+                 
+   in this code the TextToSpeech generator = new TextToSpeech("google chrome opening") the generator Object convert the  "google chrome opening" string to the voice and it is perform after the openning of the browser.
+     thats it. Mainly it is a voice synthesize application if our voice command is Matches with the Language Dictionary instruction or String it perform or run it By using Control Structure              
+     
