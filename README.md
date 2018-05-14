@@ -10,6 +10,12 @@ Developed By "carnegie mellon university (CMU)" & Take Decision basis of it's
 to run Some Common windows application and voice chat conversation with user  
 in this application i use a Aditional feature which is Text to Speech Detection
 
+
+<b>Author :</b> <br>
+Arunav Mallik Avi (Arm Avi), <br>
+Department of Computer Science and Engineering, 
+National University, Bangladesh<br>
+
 ## Code Description
 
      class VoiceDetection extends Thread{
