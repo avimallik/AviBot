@@ -1,7 +1,7 @@
 # AviBot
 
 AviBot is one kind of Simple and Basic Virtual Assistant that can perform Specific
-task Basis of it's Integrated Logic. virtual assistant is also called "ChatBot" .
+task Based on it's Integrated Logic. virtual assistant is also called "ChatBot" .
 ChatBot is Computer Application or Software That Lead or Abide By 
 "Artificial Intellegence". AviBot Has Ability to Captures Voice From Microphone By 
 Using the "Sphinix4", A Voice/Speech Recognition "Java" Library. Which is 
